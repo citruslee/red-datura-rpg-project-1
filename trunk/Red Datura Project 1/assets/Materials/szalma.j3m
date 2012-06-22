@@ -1,0 +1,10 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Repeat Imports/Vikingvisko/diffuse.jpg
+        SpecularMap : Repeat Imports/Vikingvisko/specularity.jpg
+        NormalMap : Repeat Imports/Vikingvisko/normal.jpg
+        HighQuality : true
+     }
+    AdditionalRenderState {
+    }
+}
