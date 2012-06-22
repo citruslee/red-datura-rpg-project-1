@@ -1,0 +1,10 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Repeat Imports/Vikingvisko/gerenda_1.diffuse.tga
+        SpecularMap : Repeat Imports/Vikingvisko/gerenda_1.specular.tga
+        NormalMap : Repeat Imports/Vikingvisko/gerenda_1.normal.tga
+        HighQuality : true
+     }
+    AdditionalRenderState {
+    }
+}

@@ -1,0 +1,10 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        NormalMap : Flip Repeat Imports/Vikingvisko/brickwall.w_2.normal.tga
+        HighQuality : true
+        SpecularMap : Flip Repeat Imports/Vikingvisko/brickwall.w_2.specular.tga
+        DiffuseMap : Flip Repeat Imports/Vikingvisko/brickwall.w_2.diffus.tga
+     }
+    AdditionalRenderState {
+    }
+}
